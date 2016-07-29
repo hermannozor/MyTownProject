@@ -1,0 +1,30 @@
+poure les icones --------------------
+		dp	px			sp		mm		in		pt
+ldpi	@ 48.00dp	= 36.00px	= 48.00sp	= 7.62mm	= 0.30in	= 21.60pt
+mdpi	@ 48.00dp	= 48.00px	= 48.00sp	= 7.62mm	= 0.30in	= 21.60pt
+tvdpi	@ 48.00dp	= 63.90px	= 48.00sp	= 7.62mm	= 0.30in	= 21.60pt
+hdpi	@ 48.00dp	= 72.00px	= 48.00sp	= 7.62mm	= 0.30in	= 21.60pt
+xhdpi	@ 48.00dp	= 96.00px	= 48.00sp	= 7.62mm	= 0.30in	= 21.60pt
+xxhdpi	@ 48.00dp	= 144.00px	= 48.00sp	= 7.62mm	= 0.30in	= 21.60pt
+xxxhdpi	@ 48.00dp	= 192.00px	= 48.00sp	= 7.62mm	= 0.30in	= 21.60pt
+
+
+
+
+ldpi	120 dpi
+mdpi	160 dpi
+tvdpi	213 dpi
+hdpi	240 dpi
+xhdpi	320 dpi
+xxhdpi	480 dpi
+xxxhdpi	640 dpi
+
+
+pour les images de l'application en général--------------------------------------
+
+xxxhdpi: 1280x1920 px
+xxhdpi: 960x1600 px
+xhdpi: 640x960 px
+hdpi: 480x800 px
+mdpi: 320x480 px
+ldpi: 240x320 px

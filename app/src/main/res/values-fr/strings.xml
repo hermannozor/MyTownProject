@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Town</string>
+    <string name="pharma_ville">Pharmacies de votre ville</string>
+    <string name="pharma_garde">Pharmacie de garde</string>
+    <string name="locate_pharma">localisez une pharmacie</string>
+    <string name="search_pharma">Cherchez un pharmacien</string>
+
+    <string name="Adamaoua">Adamaoua</string>
+    <string name="Centre">Pharmacies de votre ville</string>
+    <string name="Est">Est</string>
+    <string name="ExtrêmeNord">Extrême-Nord</string>
+    <string name="Littoral">Littoral</string>
+    <string name="Nord">Nord</string>
+    <string name="NordOuest">Nord-Ouest</string>
+    <string name="Ouest">Ouest</string>
+    <string name="Sud">Sud</string>
+    <string name="SudOuest">Sud-Ouest</string>
+
+    "Adamaoua",
+    "Centre",
+    "Est",
+    "Extrême-Nord",
+    "Littoral",
+    "Nord",
+    "Nord-Ouest",
+    "Ouest",
+    "Sud",
+    "Sud-Ouest"};
+
+</resources>
